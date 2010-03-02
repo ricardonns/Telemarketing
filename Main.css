@@ -1,0 +1,16 @@
+﻿body
+{
+    font-family:Arial Rounded MT Bold;
+    font-size:8pt;
+    color:Black;
+}
+
+body h1
+{
+    font-size:"120%";
+}
+
+body h2
+{
+    font-size:"110%";
+}
